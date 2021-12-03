@@ -4,7 +4,7 @@ You can take the knitting survey by following this link:
 
 https://forms.gle/V297nb22rjNFVTRN9
 
-![Image](images/knitting_map.png)
+![knitting_map](https://user-images.githubusercontent.com/64635046/144662366-e0c797fc-ad04-4ec4-bd46-8a5259bbe416.png)
 
 ### Markdown
 
