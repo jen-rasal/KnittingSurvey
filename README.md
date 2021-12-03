@@ -4,6 +4,8 @@ You can take the knitting survey by following this link:
 
 https://forms.gle/V297nb22rjNFVTRN9
 
+(images/knitting_map.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
