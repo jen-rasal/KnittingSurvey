@@ -17,7 +17,7 @@ function includeHTML() {
           if (this.status == 200) {elmnt.innerHTML = this.responseText;}
           if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
           /* Remove the attribute, and call this function once more: */
-          elmnt.removeAttribute("w3-include-html");
+          elmnt.removeAttribute("worldmap-html");
           includeHTML();
         }
       }
@@ -34,7 +34,7 @@ function includeHTML() {
 </head>
 <body>
 
-<h1>A breakdown of the people who have contributed to the survey test </h1>
+<h1>A breakdown of the people who have contributed to the survey </h1>
 <p>Below you will find several graphics showing information about who completed the survey.</p>
 
 <head>    
