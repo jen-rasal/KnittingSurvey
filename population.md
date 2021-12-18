@@ -1,8 +1,7 @@
-<title>Who completed the survey?</title>
 <html>
     
 <head>
-<title>Page Title</title>
+<title>Who completed the survey?</title>
 </head>
 <body>
 
