@@ -1,5 +1,3 @@
-## Knitting Survey test
-
 You can take the knitting survey by following this link:
 
 https://forms.gle/V297nb22rjNFVTRN9
