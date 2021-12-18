@@ -1,8 +1,4 @@
 <html>
- ## Knitting Survey   
-<head>
-<title>Who completed the survey?</title>
-</head>
 <body>
 
 <h1>A breakdown of the people who have contributed to the survey test</h1>
