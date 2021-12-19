@@ -7,6 +7,7 @@
 <img src = "https://user-images.githubusercontent.com/64635046/145694628-40642ece-46d5-4007-8038-691a2cc1c3b9.png">
 <img src='population_graphs/knitting_household_income.png'/>
 <img src='population_graphs/knitting_age.png'/>
+    <img src='population_graphs/Personality.png'/>
     
 
     </body>
