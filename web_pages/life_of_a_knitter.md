@@ -6,8 +6,9 @@
 <div style="float: left">
     <img src='https://jen-rasal.github.io/KnittingSurvey/life_of_a_knitter_graphs/learning_age.png'/>
 </div>
+<div style="float: right">
     <p>This graph shows the age that people learnt to knit.</p>
-    
+    </div>
 
     </body>
 </html>
