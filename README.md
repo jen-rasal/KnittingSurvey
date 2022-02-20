@@ -1,11 +1,11 @@
 # Knitting Data Project
-Display the results of the knitting survey
-You can take the knitting survey by following this link:
+This knitting project is aimed at illuminating the world of knitting and the knitters who are part of it. Using an online survey the following pages display the the knitting world. Taken by over 450 knitters so far. The survey is on going and can be completed in multiple languages in the following links:
 
-https://forms.gle/V297nb22rjNFVTRN9
-
-
-[Link](https://forms.gle/V297nb22rjNFVTRN9)
+[Link to the English Survey](https://forms.gle/V297nb22rjNFVTRN9)
+[Link to the French Survey](https://forms.gle/tWV68Qa2FBXjJAdWA)
+[Link to the Spanish Survey](https://forms.gle/o9VQ632wapCNiJDX8)
+[Link to the Russian Survey](https://forms.gle/BEdeL1gCcYdJcMPE7)
+[Link to the Chinese Survey](https://forms.gle/TDt1x3dLBfP8iueM8)
 
 ### Markdown
 
