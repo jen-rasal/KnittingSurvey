@@ -5,7 +5,7 @@ You can take the knitting survey by following this link:
 https://forms.gle/V297nb22rjNFVTRN9
 
 
-[Link](https://jen-rasal.github.io/KnittingSurvey/test)
+[Link](https://forms.gle/V297nb22rjNFVTRN9)
 
 ### Markdown
 
