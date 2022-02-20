@@ -9,6 +9,9 @@
 <div style="display:inline-block;">
 <p>This graph shows the age that people learnt to knit.</p>
 </div>
+<div style="display:inline-block;">
+<p>This graph shows the number of hours people knit each week.</p>
+</div>
 <div style="display:inline-block;vertical-align:right;">
 <img src='https://jen-rasal.github.io/KnittingSurvey/life_of_a_knitter_graphs/time_spent.png'/>
 </div>
