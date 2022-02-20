@@ -1,4 +1,4 @@
-# KnittingSurvey
+# Knitting Survey
 Display the results of the knitting survey
 You can take the knitting survey by following this link:
 
