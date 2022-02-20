@@ -12,7 +12,7 @@
 <div style="display:inline-block;">
 <p>This graph shows the number of hours people knit each week.</p>
 </div>
-<div style="display:inline-block;vertical-align:right;">
+<div style="display:inline-block;vertical-align:bottom;">
 <img src='https://jen-rasal.github.io/KnittingSurvey/life_of_a_knitter_graphs/time_spent.png'/>
 </div>
 </body>
